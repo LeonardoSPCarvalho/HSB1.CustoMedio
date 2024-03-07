@@ -1,0 +1,8 @@
+{
+  "name": "HSB1.CustoMedio",
+  "version": "1.0.0",
+  "description": "Carga de custo médio do SAP para o HS",
+  "main": "CustoMedio.js",
+  "author": "Leonardo Carvalho",
+  "license": "MIT"
+}
